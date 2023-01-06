@@ -23,7 +23,6 @@ random.jobs   = r(jobs)
 if(!module.parent) {
   var l = process.argv[2] || 10
   while (l--)
-    console.log(random.first(), '.', random.middle(), '.', random.last()
-    , '.', random.place(), ',', random.jobs())
+  return
 }
   
