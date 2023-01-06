@@ -23,6 +23,6 @@ random.jobs   = r(jobs)
 if(!module.parent) {
   var l = process.argv[2] || 10
   while (l--)
-  return
+  console.log()
 }
   
