@@ -1,0 +1,23 @@
+{
+  "name": "npm-silvergen",
+  "version": "1.0.0",
+  "description": "Gen for Names, Jobs, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DontFred/NPM-SilverGen.git"
+  },
+  "keywords": [
+    "Gen",
+    "Names"
+  ],
+  "author": "DontFred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DontFred/NPM-SilverGen/issues"
+  },
+  "homepage": "https://github.com/DontFred/NPM-SilverGen#readme"
+}
