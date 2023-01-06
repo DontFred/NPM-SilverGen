@@ -1,6 +1,6 @@
 {
   "name": "npm-silvergen",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Gen for Names, Jobs, etc.",
   "main": "index.js",
   "scripts": {
