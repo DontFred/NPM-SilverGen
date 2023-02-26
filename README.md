@@ -1,11 +1,27 @@
-# NPM-SilverGen
+
+# SilverGen
+
+is a text generator for Jobs, Names and Locations.
+
+## Authors
+
+- [@dontfred](https://www.github.com/dontfred)
 
 
-https://www.npmjs.com/package/npm-silvergen
+## Tech Stack
+
+**Pack:** NodeJS
 
 
-Gen Names, Jobs, etc. 
+## Support
 
-Based on #random-name:
-https://www.npmjs.com/package/random-name
-by nopersonsmodules
+For support, email mail@frederikwgrimm.de
+
+
+## No License
+
+Copyright ([©](https://www.ipoi.gov.ie/en/types-of-ip/copyright1/understanding-copyright/the-copyright-notice-and-symbol-%C2%A9/)) 2023 - present Frederik W. Grimm.
+
+All rights reserved. No part of this software may be reproduced, distributed, or transmitted in any form or by any means, including printing, saving, photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner.
+
+
